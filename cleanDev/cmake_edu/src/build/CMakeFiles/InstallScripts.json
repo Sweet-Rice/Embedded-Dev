@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tai/Embedded-Dev/cleanDev/cmake_edu/src/build/cmake_install.cmake",
+		"/home/tai/Embedded-Dev/cleanDev/cmake_edu/src/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

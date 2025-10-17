@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/cmakeEx_proj.dir/main.c.obj -o cmakeEx_proj

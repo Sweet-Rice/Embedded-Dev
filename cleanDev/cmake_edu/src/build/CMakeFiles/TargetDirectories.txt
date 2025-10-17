@@ -1,0 +1,5 @@
+/home/tai/Embedded-Dev/cleanDev/cmake_edu/src/build/CMakeFiles/edit_cache.dir
+/home/tai/Embedded-Dev/cleanDev/cmake_edu/src/build/CMakeFiles/rebuild_cache.dir
+/home/tai/Embedded-Dev/cleanDev/cmake_edu/src/build/src/CMakeFiles/cmakeEx_proj.dir
+/home/tai/Embedded-Dev/cleanDev/cmake_edu/src/build/src/CMakeFiles/edit_cache.dir
+/home/tai/Embedded-Dev/cleanDev/cmake_edu/src/build/src/CMakeFiles/rebuild_cache.dir

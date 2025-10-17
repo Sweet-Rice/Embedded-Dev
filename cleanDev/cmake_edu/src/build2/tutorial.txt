@@ -1,0 +1,14 @@
+Okay so after extensive testing and research, I'm finally starting to understand. This is a modular system. cmake at the root of the cmake project, and then cmake the target project. 
+
+cmake configures everything
+cmake --build does the building 
+then make
+
+so:
+
+cmake ../..
+cmake --build . --target cmakeEx_proj
+make
+
+then your target executable is at ./src/cmakeEx_proj
+
